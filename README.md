@@ -22,5 +22,7 @@
 - Node.js
 - Django
 - React Native
+- Solidity
+- Smartpy
 - Core Blockchain
  
